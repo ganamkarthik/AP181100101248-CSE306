@@ -1,0 +1,30 @@
+int: keyword
+main: keyword
+(: 
+): 
+{: 
+int: keyword
+a: identifier
+;: 
+single-line comment
+a: identifier
+>=: Relational operator GE
+9.6: fractional float
+!=: Relational operator NE
+-0.1: fractional float
+b: identifier
+=: Assignment operator
+.6: fractional float
+-5e+9: exponential float
+_end: identifier
+return: identifier
+0: digit
+;: 
+}: 
+
+Symbol table:
+
+1. a
+2. b
+3. _end
+4. return
